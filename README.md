@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -53,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
