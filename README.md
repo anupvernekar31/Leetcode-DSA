@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Queue
 |  |
