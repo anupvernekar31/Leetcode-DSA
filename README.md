@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -112,15 +114,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
