@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting
 |  |
