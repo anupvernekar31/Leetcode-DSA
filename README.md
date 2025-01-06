@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
 ## Array
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1034-subarrays-with-k-different-integers) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
