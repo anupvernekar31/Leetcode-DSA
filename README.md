@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
