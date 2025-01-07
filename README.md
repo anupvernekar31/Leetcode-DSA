@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0136-single-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
