@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
